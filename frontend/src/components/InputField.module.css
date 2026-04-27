@@ -1,0 +1,37 @@
+.field { margin-bottom: 1rem; }
+
+.label {
+  display: block;
+  font-size: 13px;
+  color: #666;
+  margin-bottom: 6px;
+  font-weight: 500;
+}
+
+.inputRow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.input {
+  flex: 1;
+  height: 42px;
+  border: 1.5px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 0 14px;
+  font-size: 15px;
+  background: #fff;
+  color: #1a1a1a;
+  outline: none;
+  transition: border-color 0.15s;
+  font-family: inherit;
+}
+
+.input:focus { border-color: #1a1a1a; }
+
+.suffix {
+  font-size: 14px;
+  color: #888;
+  min-width: 20px;
+}

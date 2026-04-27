@@ -2,6 +2,8 @@
 
 Projeto fullstack com **Spring Boot (Java)** no backend e **React** no frontend.
 
+https://calcula-porcentagem-lovat.vercel.app/
+
 ---
 
 ## Estrutura

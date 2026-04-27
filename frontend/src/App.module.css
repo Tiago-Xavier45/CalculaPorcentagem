@@ -52,10 +52,6 @@
   flex-shrink: 0;
 }
 
-.tab:hover {
-  background: #ebebe6;
-}
-
 .tabActive {
   background: #1a1a1a;
   color: #fff;
